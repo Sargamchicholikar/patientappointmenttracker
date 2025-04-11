@@ -83,5 +83,5 @@ Feel free to fork this repository and submit pull requests to enhance the featur
 
 ## 🙋 Support
 For any issues or feature requests, please contact:
-**Sargam Chicholikar** – sargamchicholikar@gmail
+**Sargam Chicholikar** – sargamchicholikar@gmail.com
 
